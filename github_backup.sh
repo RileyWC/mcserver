@@ -12,7 +12,7 @@ cd /home/pihole/mcserver
 
 # Check if the repository is already cloned, else clone it
 if [ ! -d ".git" ]; then
-    git clone https://github.com/$GITHUB_USERNAME/$GITHUB_REPO.git
+    git clone origin
     cd $GITHUB_REPO
 fi
 
