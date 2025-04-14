@@ -8,27 +8,35 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2024-12-19 20:16:02 -0500",
-      "minecraft:flower_forest": "2024-12-20 16:11:21 -0500",
-      "minecraft:beach": "2024-12-19 20:13:16 -0500",
-      "minecraft:dark_forest": "2024-12-14 22:45:53 -0500",
       "minecraft:forest": "2024-12-14 22:41:58 -0500",
+      "minecraft:taiga": "2025-04-12 12:31:55 -0400",
       "minecraft:deep_ocean": "2024-12-19 20:13:45 -0500",
-      "minecraft:river": "2024-12-14 22:44:38 -0500",
-      "minecraft:stony_shore": "2024-12-19 19:19:09 -0500",
       "minecraft:lush_caves": "2024-12-15 12:23:10 -0500",
-      "minecraft:dripstone_caves": "2024-12-14 22:36:22 -0500",
       "minecraft:deep_cold_ocean": "2024-12-19 20:14:16 -0500",
-      "minecraft:old_growth_birch_forest": "2024-12-14 22:29:58 -0500",
+      "minecraft:ice_spikes": "2025-04-12 12:33:13 -0400",
+      "minecraft:frozen_ocean": "2025-04-12 12:32:17 -0400",
+      "minecraft:frozen_river": "2025-04-12 12:33:22 -0400",
       "minecraft:windswept_forest": "2024-12-20 16:03:09 -0500",
-      "minecraft:deep_dark": "2025-02-19 15:45:39 -0500",
+      "minecraft:deep_frozen_ocean": "2025-04-12 12:32:20 -0400",
       "minecraft:ocean": "2024-12-19 20:12:08 -0500",
       "minecraft:sunflower_plains": "2024-12-20 16:11:00 -0500",
       "minecraft:cherry_grove": "2024-12-21 13:21:36 -0500",
-      "minecraft:swamp": "2024-12-20 16:00:28 -0500",
-      "minecraft:meadow": "2024-12-21 20:57:45 -0500",
       "minecraft:birch_forest": "2024-12-14 22:32:49 -0500",
       "minecraft:windswept_hills": "2024-12-20 16:08:18 -0500",
+      "minecraft:snowy_beach": "2025-04-12 12:33:51 -0400",
       "minecraft:windswept_savanna": "2024-12-20 16:09:38 -0500",
+      "minecraft:flower_forest": "2024-12-20 16:11:21 -0500",
+      "minecraft:beach": "2024-12-19 20:13:16 -0500",
+      "minecraft:dark_forest": "2024-12-14 22:45:53 -0500",
+      "minecraft:river": "2024-12-14 22:44:38 -0500",
+      "minecraft:stony_shore": "2024-12-19 19:19:09 -0500",
+      "minecraft:snowy_plains": "2025-04-12 12:32:42 -0400",
+      "minecraft:dripstone_caves": "2024-12-14 22:36:22 -0500",
+      "minecraft:snowy_taiga": "2025-04-12 12:33:49 -0400",
+      "minecraft:old_growth_birch_forest": "2024-12-14 22:29:58 -0500",
+      "minecraft:deep_dark": "2025-02-19 15:45:39 -0500",
+      "minecraft:swamp": "2024-12-20 16:00:28 -0500",
+      "minecraft:meadow": "2024-12-21 20:57:45 -0500",
       "minecraft:plains": "2024-12-20 16:05:24 -0500",
       "minecraft:pale_garden": "2024-12-19 19:22:31 -0500"
     },
@@ -379,6 +387,7 @@
       "minecraft:shulker": "2025-02-23 19:32:57 -0500",
       "minecraft:cave_spider": "2024-12-21 21:04:37 -0500",
       "minecraft:piglin": "2025-02-19 15:07:04 -0500",
+      "minecraft:breeze": "2025-04-12 13:07:08 -0400",
       "minecraft:enderman": "2024-12-19 19:47:09 -0500",
       "minecraft:magma_cube": "2025-02-23 10:41:21 -0500",
       "minecraft:spider": "2024-12-14 22:41:39 -0500",
@@ -4003,6 +4012,186 @@
   "minecraft:recipes/decorations/black_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-04-04 22:57:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2025-04-12 12:19:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-12 12:34:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-04-12 12:34:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-04-12 12:34:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-04-12 12:34:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-12 12:34:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-04-12 12:34:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-04-12 12:34:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-12 12:34:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-12 12:34:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-12 12:35:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-12 12:35:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-12 12:52:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-12 12:52:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-04-12 13:01:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-04-12 13:01:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2025-04-12 13:01:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-04-12 13:01:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-04-12 13:01:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2025-04-12 13:01:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2025-04-12 13:01:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-04-12 13:01:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-04-12 13:02:48 -0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-04-12 13:06:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-04-12 13:07:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-04-12 13:07:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-12 13:12:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
+    "criteria": {
+      "has_bolt_armor_trim_smithing_template": "2025-04-12 13:12:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-12 13:12:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-12 13:12:43 -0400"
     },
     "done": true
   },
