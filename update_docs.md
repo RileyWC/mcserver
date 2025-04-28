@@ -28,5 +28,6 @@
 
 ## Exit the ssh session
 
-
+## FOR RUNNING THE SERVER IN THE BACKGROUND USE THE FOLLOWING COMMAND
+'setsid ./mcstart.sh &'
 
