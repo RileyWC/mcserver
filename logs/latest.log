@@ -1,4 +1,4 @@
-[03:58:49] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[13:26:41] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at zd.a(SourceFile:50) ~[server-1.21.5.jar:?]
 	at zd.encode(SourceFile:14) ~[server-1.21.5.jar:?]
@@ -37,7 +37,7 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[09:05:51] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[20:42:10] [Netty Epoll Server IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at zd.a(SourceFile:50) ~[server-1.21.5.jar:?]
 	at zd.encode(SourceFile:14) ~[server-1.21.5.jar:?]
@@ -76,6 +76,3 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[15:33:15] [User Authenticator #15/INFO]: UUID of player LoafOBread5 is 8bb65957-a392-42cf-a60e-f072fb8cbd41
-[15:33:16] [Server thread/INFO]: LoafOBread5[/100.0.183.139:50826] logged in with entity id 114393 at (-650.2369918039755, 162.0, -1509.8572179057094)
-[15:33:16] [Server thread/INFO]: LoafOBread5 joined the game
